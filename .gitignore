@@ -1,0 +1,81 @@
+# Zig
+.zig-cache/
+zig-cache/
+zig-out/
+
+# Build artifacts
+build/
+dist/
+out/
+bin/
+obj/
+
+# Object files
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.lib
+*.exe
+
+# Debug symbols
+*.pdb
+*.dSYM/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Editors
+.vscode/
+.idea/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Linux
+.directory
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Vim
+*.un~
+
+# Environment
+.env
+.env.*
+
+# Archives
+*.zip
+*.tar
+*.gz
+*.xz
+*.7z
+
+# Coverage
+coverage/
+
+# Cache
+.cache/
+
+# QEMU
+*.qcow2
+*.img
+*.iso
+
+# Generated documentation
+docs/build/
+
+# Misc
+*.bak
